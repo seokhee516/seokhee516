@@ -12,12 +12,6 @@
 <img src="https://img.shields.io/badge/pandas-171515.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a>
 
 
-
-<br>
-<h3> 👉 Contact Me 👈 </h3>
-<a href="mailto:seokhee051@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=seokhee051@gmail.com"/></a>
-
-
 <br>
 <br>
 <br>
