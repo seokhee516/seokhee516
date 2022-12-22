@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2E2E2E&height=250&section=header&text=Seokhee%20Jeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=250&section=header&text=Seokhee%20Jeong&fontSize=80)
 
 
 # 👋Hi there. I'm Seokhee
