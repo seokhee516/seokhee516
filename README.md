@@ -18,7 +18,7 @@
 <!-- <h3> Contact </h3> -->
 ## Contact
 <a href="mailto:seokhee051@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gpsslssl@gmail.com"/></a>
-<a href="https://seokhee0516.tistory.com/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
+<a href="https://seokhee0516.tistory.com/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=Tistory&logoColor=white"/></a></a>
 
 ## Tech Stack
 
