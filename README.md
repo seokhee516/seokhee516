@@ -43,7 +43,7 @@
 
 
 
-## Training
+## Education
 - **NAVER Connect Foundation boostcamp AI Tech 4th NLP** 2022.09 ~ 2023. 02
 -  **Codestates AIB 8th** 2021. 09. ~ 2022. 04
 
