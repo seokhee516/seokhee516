@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-
-
+## Award 
+- **제4회 KB Future Finance A.I. Challenge - 최우수상(2위)**
 
 ## Education
 - **NAVER Connect Foundation boostcamp AI Tech 4th NLP** 2022.09 ~ 2023. 02
